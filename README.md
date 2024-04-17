@@ -24,8 +24,7 @@ To set up the Chat App for development:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/enekomtz1/Full-Stack_Projects.git
-   cd 01-ChatApp
+   git clone https://github.com/enekomtz1/01-ChatApp.git
    ```
 
 2. Install backend dependencies:
